@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342207241124",
+    "project_id": "a1d2c3d4",
+    "storage_bucket": "a1d2c3d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342207241124:android:398f9b21b028d5cd6a3f31",
+        "android_client_info": {
+          "package_name": "com.example.minispotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkWxCTi0cv-hTpHfPy8bPzSY0bK7Bk_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
