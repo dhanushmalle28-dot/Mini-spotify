@@ -6,4 +6,4 @@ This application demonstrates concepts of Android development, Kotlin programmin
 
 OUT PUT: 
 
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/64bef368-4b2c-4b8d-a65e-952fce954f03" />
+<img width="1919" height="1019" alt="image" src="[https://github.com/user-attachments/assets/64bef368-4b2c-4b8d-a65e-952fce954f03](https://github.com/dhanushmalle28-dot/Mini-spotify/blob/915ba3511f2ccac116828c1ddaaf387c5682c0d2/Screenshot%202025-11-28%20171946.png)" />
